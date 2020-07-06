@@ -5,6 +5,4 @@ Aplicación de Escritorio de análisis de velocidad de conexión a internet.
 ![alt text](https://media-exp1.licdn.com/dms/image/C4D22AQHQA-HUF0UfcQ/feedshare-shrink_1280/0?e=1584576000&v=beta&t=QYYGQGBMR7YHzZ72fiDM4fSJskTLgnH5PzL8NkbqVtg)  
 # Grupo DIscord para nuestra comunidad.
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fasgardgaming.se%2Fwp-content%2Fuploads%2F2017%2F08%2Fderp-300x240.png&f=1&nofb=1) Entrar -> https://discord.gg/ShKjFfe
-# Este programa es gratuito pero si es útil en tu día a día, puedes hacer una pequeña donación con la cuantía que consideres oportuna.
-El método de donaciones que utilizo es PayPal. En el siguiente enlace podrás realizar la donación. Gracias usuari@.
-https://www.paypal.com/donate/?token=BM1FfZtiZ826nHPn89YzQSco0hU7z9nv881yGFDOgC6VrrQOCUO5_lkY_J9pyln810RUn0&country.x=ES&locale.x=ES
+
